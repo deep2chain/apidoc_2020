@@ -53,6 +53,12 @@ def Transfer(strFrom, strTo, nAmount) -> None:
     :return: 无
     '''
 
+    #不能小于1聪
+    print('nAmount=%f' % nAmount)
+    if nAmount <= 1:
+        print("nAmount error|nAmount=%f" % nAmount)
+        exit(-1)
+
     try:
         rsp =  requests.get('http://%s/auth/accounts/%s' % (g_node_ip_port.strip(), strFrom.strip()))
         rspJson = rsp.json()
