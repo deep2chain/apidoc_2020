@@ -199,8 +199,6 @@ def Transfer(strFrom, strTo, nAmount) -> None:
         print(e)
         return
 
-
-
 if __name__ == '__main__':
 
     # Transfer(g_strFrom, "htdf12hnuqw25j9kflduzgjflnm88gfyq9sxuwn49d2", 0.0001 * (10 ** 8))
