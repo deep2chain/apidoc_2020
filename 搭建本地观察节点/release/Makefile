@@ -1,4 +1,4 @@
-version=v0.3.0
+version=v1.0.0
 daemon=hsd_${version}_linux_amd64.tar.gz
 client=hscli_${version}_linux_amd64.tar.gz
 client_debug=hscli_${version}_DEBUG_MODE_linux_amd64.tar.gz
