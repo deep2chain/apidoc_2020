@@ -25,7 +25,7 @@ if ismainnet:  #主网
     g_node_ip_port = '39.108.219.50:1317'   #主网节点ip和端口
     g_chainid = 'mainchain'
 else: #测试网
-    g_node_ip_port = '127.0.0.1:1317'   #测试节点
+    g_node_ip_port = '120.77.170.207:1317'   #测试节点
     g_chainid = 'testchain'
 
 g_strFrom = 'htdf1rgsfxav0af8a79cmtq6rnjtjkqngl9qcj8k9l7'
