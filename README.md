@@ -1,6 +1,14 @@
 
 
  # HTDF 2020版API 文档
+ 
+ 
+ 
+## token数量单位
+- 我们的数量单位，完全参考BTC
+- 两个数量单位 HTDF、satoshi（聪）
+> 1 HTDF =  100000000 satoshi（聪）
+
 
 
 ## 与历史版本的比对
