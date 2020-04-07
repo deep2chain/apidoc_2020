@@ -7,8 +7,12 @@
 ## token数量单位
 - 我们的数量单位，完全参考BTC
 - 两个数量单位 HTDF、satoshi（聪）
-> 1 HTDF =  100000000 satoshi（聪）
+- 最小单位是 satoshi（聪）
 
+```
+1 HTDF =  100000000 satoshi（聪）
+1 satoshi（聪） = 0.00000001 HTDF
+```
 
 
 ## 与历史版本的比对
