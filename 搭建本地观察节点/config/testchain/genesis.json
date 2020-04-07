@@ -16,7 +16,7 @@
             }, 
             {
                 "account_number": "0", 
-                "address": "htdf1yxc8j3xr322hpwlc83enhf96zq8f4zfvv74tv2", 
+                "address": "htdf1hv3hgjq9qadlnsf38qsrmnjwua92gm802xddl4", 
                 "coins": [
                     {
                         "amount": "100000000", 
@@ -29,7 +29,7 @@
             }, 
             {
                 "account_number": "0", 
-                "address": "htdf1xa6q3j2gd6375r0ln4t3vzah7za94jdgr3gyjk", 
+                "address": "htdf1wkymz6dkymd5ugnf4rw94q73mat88q33dmqsj7", 
                 "coins": [
                     {
                         "amount": "100000000", 
@@ -42,7 +42,7 @@
             }, 
             {
                 "account_number": "0", 
-                "address": "htdf1wx4gjn7ye0mth49yyzwd79fl9x0z2yl37mv4rq", 
+                "address": "htdf17e3p54teu2dyz2zdpj7k58twvz4zkzke7h46ay", 
                 "coins": [
                     {
                         "amount": "100000000", 
@@ -55,7 +55,7 @@
             }, 
             {
                 "account_number": "0", 
-                "address": "htdf1w78q3vra8q7m7ng6hmav3gje06upwa5vg9qhar", 
+                "address": "htdf12347g0nk9vpae7886xp0sxjdxya27lq45nh9c7", 
                 "coins": [
                     {
                         "amount": "100000000", 
@@ -107,13 +107,13 @@
                                     "max_rate": "0.200000000000000000", 
                                     "rate": "0.100000000000000000"
                                 }, 
-                                "delegator_address": "htdf1yxc8j3xr322hpwlc83enhf96zq8f4zfvv74tv2", 
+                                "delegator_address": "htdf1hv3hgjq9qadlnsf38qsrmnjwua92gm802xddl4", 
                                 "description": {
                                     "moniker": "node0"
                                 }, 
                                 "min_self_delegation": "1", 
-                                "pubkey": "htdfvalconspub1zcjduepqjn23vm50rvjae6xp3hkq6kp6q62pxlktg5dy48uhfpsemyxv79mqhazzl9", 
-                                "validator_address": "htdfvaloper1yxc8j3xr322hpwlc83enhf96zq8f4zfvx8djmp", 
+                                "pubkey": "htdfvalconspub1zcjduepqpse0g74fegvtw9y57ne2k9h0t95lt57qq5uuka46h7phmnxfp86qypft9n", 
+                                "validator_address": "htdfvaloper1hv3hgjq9qadlnsf38qsrmnjwua92gm80ql45g7", 
                                 "value": {
                                     "amount": "100000000", 
                                     "denom": "satoshi"
@@ -125,9 +125,9 @@
                         {
                             "pub_key": {
                                 "type": "tendermint/PubKeySecp256k1", 
-                                "value": "AgiPTBnGeyzgfodp0/o099TESTnia4JW289jQ7LTg4sq"
+                                "value": "AqCED5fYax0CSdyP8PCnyJs88EhSkWZNQKTWGS55krMT"
                             }, 
-                            "signature": "xMhSMbohDTR0EaR04ms5QWilp//iN3jBDHobF3sg8+EQBUz/IEzITzTYSxne9kwT/dNJPdds++UI9mST03QpZA=="
+                            "signature": "5PPHD8HWyFnUM4D2Bpch3j/vS9mjYXTzc9QKo1d051hBLvXeJ2tOmW3JHkvb5CGchXWkGXdHkJwT3uyBXytvTg=="
                         }
                     ]
                 }
@@ -148,13 +148,13 @@
                                     "max_rate": "0.200000000000000000", 
                                     "rate": "0.100000000000000000"
                                 }, 
-                                "delegator_address": "htdf1xa6q3j2gd6375r0ln4t3vzah7za94jdgr3gyjk", 
+                                "delegator_address": "htdf1wkymz6dkymd5ugnf4rw94q73mat88q33dmqsj7", 
                                 "description": {
                                     "moniker": "node1"
                                 }, 
                                 "min_self_delegation": "1", 
-                                "pubkey": "htdfvalconspub1zcjduepqlu0vcc2ff7ax4fuxzncvcz2pxr85epy3eam2kmd44le4ta68ljqss9s4j7", 
-                                "validator_address": "htdfvaloper1xa6q3j2gd6375r0ln4t3vzah7za94jdgfgsa9a", 
+                                "pubkey": "htdfvalconspub1zcjduepqqvj350x9hszy8llkyzuwyq96dsgcwm5mm9ujy9xv9qauu9lj4mjsqm62m9", 
+                                "validator_address": "htdfvaloper1wkymz6dkymd5ugnf4rw94q73mat88q338zcf94", 
                                 "value": {
                                     "amount": "100000000", 
                                     "denom": "satoshi"
@@ -166,9 +166,9 @@
                         {
                             "pub_key": {
                                 "type": "tendermint/PubKeySecp256k1", 
-                                "value": "A8Iw8sktmPEcelMaPBFMNTOo7N1oCbLqOxnXH7c4eREs"
+                                "value": "A4E64HG90ofcYiCrsLk5VVscWD2TNJhJmZHoKmpAiTrE"
                             }, 
-                            "signature": "gUr5ryySX4+LFY+Jhnyz15kGouUc23dRQN04Bw+BjTtt84N+SybTkaDFokSva1iYbk2MQ+hX8Hbfb0FAMCAqBw=="
+                            "signature": "Hrk/4CELzQ2QtVDQsGxp0dJ4F0V3P18LzG3vfPqVEsk5dBiDuD0JH/IAiwWwIpKGSazmKvgGFEBLYFmvt5yunA=="
                         }
                     ]
                 }
@@ -189,13 +189,13 @@
                                     "max_rate": "0.200000000000000000", 
                                     "rate": "0.100000000000000000"
                                 }, 
-                                "delegator_address": "htdf1wx4gjn7ye0mth49yyzwd79fl9x0z2yl37mv4rq", 
+                                "delegator_address": "htdf17e3p54teu2dyz2zdpj7k58twvz4zkzke7h46ay", 
                                 "description": {
                                     "moniker": "node2"
                                 }, 
                                 "min_self_delegation": "1", 
-                                "pubkey": "htdfvalconspub1zcjduepql3ls2c2fpdhzja6pc86pu3ksc2lxnwmpgn04wlmrpfmhwhumutfqs2qx0c", 
-                                "validator_address": "htdfvaloper1wx4gjn7ye0mth49yyzwd79fl9x0z2yl35z5v5t", 
+                                "pubkey": "htdfvalconspub1zcjduepqaqwr8rqqf9surqcjpkurrydkyyy4evmfjf57efpunxw4x7pk9sks62eg7u", 
+                                "validator_address": "htdfvaloper17e3p54teu2dyz2zdpj7k58twvz4zkzke5wdr20", 
                                 "value": {
                                     "amount": "100000000", 
                                     "denom": "satoshi"
@@ -207,9 +207,9 @@
                         {
                             "pub_key": {
                                 "type": "tendermint/PubKeySecp256k1", 
-                                "value": "An9J6O6imUFYaWlPrjzzXKXlGlXrLqJ/5JGIYQQhmhAT"
+                                "value": "Ai/Q47fQrA2u+IFu5K/YAmEHmq78PeR8P0CP3w1iKcEZ"
                             }, 
-                            "signature": "+c9zIGd55dHGP8Del9R7gqsP8nqXQUDGqzdhhbsCkzVf894UJC76vpmkZRUNf4w3tT/8SccqonXE0YgKA5qJzw=="
+                            "signature": "dZRx3b9aGz46z7r/QF/ZFWyaJjTBzFJUkpwHDHOLmNsqk6pjHGB43ibsE2LC/L/uoJ4525Og8FNdDTIG9O3lEQ=="
                         }
                     ]
                 }
@@ -230,13 +230,13 @@
                                     "max_rate": "0.200000000000000000", 
                                     "rate": "0.100000000000000000"
                                 }, 
-                                "delegator_address": "htdf1w78q3vra8q7m7ng6hmav3gje06upwa5vg9qhar", 
+                                "delegator_address": "htdf12347g0nk9vpae7886xp0sxjdxya27lq45nh9c7", 
                                 "description": {
                                     "moniker": "node3"
                                 }, 
                                 "min_self_delegation": "1", 
-                                "pubkey": "htdfvalconspub1zcjduepqzsfx02qurhq03l78c45q7w028sr5ek57gzgwa507erraj7hgsq9qa6raz8", 
-                                "validator_address": "htdfvaloper1w78q3vra8q7m7ng6hmav3gje06upwa5vzucw2g", 
+                                "pubkey": "htdfvalconspub1zcjduepqzcy28g37eu35guk5x7w7zyh4e904u7s5yrkd2gx3gtwcwykj35ascp2a6w", 
+                                "validator_address": "htdfvaloper12347g0nk9vpae7886xp0sxjdxya27lq4720u04", 
                                 "value": {
                                     "amount": "100000000", 
                                     "denom": "satoshi"
@@ -248,9 +248,9 @@
                         {
                             "pub_key": {
                                 "type": "tendermint/PubKeySecp256k1", 
-                                "value": "A/+yacBhJImAojKeOVgTSXEYXU+KY8bNqhHvjXZJYzgC"
+                                "value": "Az7+FTHRoYpp0ltXdgkS7vm73ae6fvoIhSY1kDMi2nW2"
                             }, 
-                            "signature": "ZF48a/ZLOWipomV7EOJ+h8e4MlMKN7f5cV2RyJgDYOFHsKViFJ5Op992/H2AomfW/po7zwzGYG6AiEx/nqu3gg=="
+                            "signature": "VXJsxJsUAkK4Z6oVm+wy/ru7fTD3HXkqYr7bWPK8HRRKXahAAGM3e4UrT/wV1xbxk+XelNtTZGMqDmaNL/BPqw=="
                         }
                     ]
                 }
@@ -376,5 +376,5 @@
             ]
         }
     }, 
-    "genesis_time": "2020-02-21T01:16:42.488623663Z"
+    "genesis_time": "2020-04-06T09:42:09.758710644Z"
 }
