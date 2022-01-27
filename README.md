@@ -1,7 +1,7 @@
 
 
- # HTDF 2020版API 文档
- 最新链接 gitee.com/orientwalt/apidoc_2020
+ # HTDF 2020 API
+Moved to gitee.com/orientwalt/apidoc_2020
  
  
 
